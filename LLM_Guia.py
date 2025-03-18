@@ -6,6 +6,7 @@ from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain_groq import ChatGroq
 from Retriever import get_fine_retriever
 import os
+import streamlit as st
 
 # Acceder a las claves almacenadas en secrets.toml
 PINECONE_API_KEY = st.secrets["pinecone"]["api_key"]
