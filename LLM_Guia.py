@@ -14,7 +14,7 @@ PINECONE_ENVIRONMENT_REGION = st.secrets["pinecone"]["environment_region"]
 GROQ_API_KEY = st.secrets["groq"]["api_key"]
 
 # Configuración del LLM
-INDEX_NAME = "man"
+INDEX_NAME = "man2"
 
 # Corregido el uso de la clave API
 llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", api_key=GROQ_API_KEY)
