@@ -7,10 +7,12 @@ from langchain_groq import ChatGroq
 from Retriever import get_fine_retriever
 import os
 
-# Configuración del entorno
-os.environ["PINECONE_API_KEY"] = "c563e341-f430-41a5-8dc4-93596352b778"
-os.environ["PINECONE_ENVIRONMENT_REGION"] = "us-east-1"
-os.environ["GROQ_API_KEY"] = "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"
+import streamlit as st
+
+# Acceder a las claves almacenadas en secrets.toml
+PINECONE_API_KEY = st.secrets["pinecone"]["api_key"]
+PINECONE_ENVIRONMENT_REGION = st.secrets["pinecone"]["environment_region"]
+GROQ_API_KEY = st.secrets["groq"]["api_key"]
 
 # Configuración del LLM
 INDEX_NAME = "man"
