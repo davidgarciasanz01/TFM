@@ -6,6 +6,7 @@ from langchain_pinecone import PineconeVectorStore
 from utils import get_embedding_function
 from dotenv import load_dotenv
 import os
+import streamlit as st
 
 os.environ["PINECONE_API_KEY"] = "c563e341-f430-41a5-8dc4-93596352b778"
 os.environ["PINECONE_ENVIRONMENT_REGION"] = "us-east-1"
