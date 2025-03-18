@@ -11,16 +11,16 @@ from LLM import info_run_guide_llm  # Importa las funciones del LLM general
 import os
 
 def chat_interface():
-    st.sidebar.image("C:\\Users\\David\\Desktop\\MSC DATA SCIENCE\\2 CUATRIMESTRE\\TFM\\MAN\\images\\logoMAN.png",  use_container_width =True)
+    st.sidebar.image("images/logoMAN.png",  use_container_width =True)
     
     # Crear dos columnas
     col1, col2 = st.columns(2)
 
     # Imagen en la primera columna
-    col1.image("C:\\Users\\David\\Desktop\\MSC DATA SCIENCE\\2 CUATRIMESTRE\\TFM\\MAN\\images\\bifaz.jpeg", caption="Bifaz del Manzanares")
+    col1.image("images/bifaz.jpeg", caption="Bifaz del Manzanares")
 
     # Imagen en la segunda columna
-    col2.image("C:\\Users\\David\\Desktop\\MSC DATA SCIENCE\\2 CUATRIMESTRE\\TFM\\MAN\\images\\damaElche.jpeg",  caption="Dibujo de la Dama de Elche")
+    col2.image("images/damaElche.jpeg",  caption="Dibujo de la Dama de Elche")
 
     st.title("Asistente del Museo Arqueológico Nacional de Madrid")
     st.write("Hola, soy el asistente virtual del Museo, estoy especializado en las obras y recorridos del museo. "
@@ -71,7 +71,7 @@ def chat_interface():
 
 def general_info_interface():
     st.title("Información General del Museo Arqueológico Nacional")
-    st.sidebar.image("C:\\Users\\David\\Desktop\\MSC DATA SCIENCE\\2 CUATRIMESTRE\\TFM\\MAN\\images\\logoMAN.png",  use_container_width =True)
+    st.sidebar.image("images/logoMAN.png",  use_container_width =True)
     #st.image("C:\\Users\\David\\Desktop\\MSC DATA SCIENCE\\2 CUATRIMESTRE\\TFM\\MAN\\images\\mapa.jpeg",caption="Mapa del MAN")
     st.write(
         "Bienvenido a la sección de información general. Aquí encontrarás datos interesantes "
@@ -97,7 +97,7 @@ def main():
     # Imagen del Museo en la barra lateral (sidebar)
     #st.sidebar.image("C:\\Users\\David\\Desktop\\MSC DATA SCIENCE\\2 CUATRIMESTRE\\TFM\\MAN\\images\\ministeriopng.png", caption="Museo Arqueológico Nacional", use_container_width =True)
 
-    st.sidebar.image("C:\\Users\\David\\Desktop\\MSC DATA SCIENCE\\2 CUATRIMESTRE\\TFM\\MAN\\images\\descarga.jpeg", caption="Museo Arqueológico Nacional", use_container_width =True)
+    st.sidebar.image("images/descarga.jpeg", caption="Museo Arqueológico Nacional", use_container_width =True)
 
     st.sidebar.title("Elige tu experiencia")
     choice = st.sidebar.radio(
