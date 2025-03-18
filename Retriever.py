@@ -65,7 +65,7 @@ Use the original query for processing.
 """
 
 def get_fine_retriever():
-    llm = ChatGroq(temperature=0, model_name="llama-3.1-70b-versatile")
+    llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile")
     vectorstore = PineconeVectorStore.from_existing_index(
         index_name=INDEX_NAME,
         embedding=get_embedding_function()
