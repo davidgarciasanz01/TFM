@@ -11,7 +11,7 @@ import streamlit as st
 os.environ["PINECONE_API_KEY"] = "c563e341-f430-41a5-8dc4-93596352b778"
 os.environ["PINECONE_ENVIRONMENT_REGION"] = "us-east-1"
 GROQ_API_KEY = st.secrets["groq"]["api_key"]
-INDEX_NAME = "man"
+INDEX_NAME = "man2"
 
 metadata_field_info = [
     AttributeInfo(
