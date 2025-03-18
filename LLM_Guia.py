@@ -16,7 +16,7 @@ GROQ_API_KEY = st.secrets["groq"]["api_key"]
 
 # Configuración del LLM
 INDEX_NAME = "man"
-llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", api_key=st.secrets["groq"]["api_key"])
+llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", api_key="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")
 )
 
 # Prompt del sistema con instrucciones claras
