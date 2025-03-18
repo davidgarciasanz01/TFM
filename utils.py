@@ -17,7 +17,7 @@ def get_embedding_function():
     #    asyncio.set_event_loop(asyncio.new_event_loop())
 
     # Inicializar embeddings
-    embeddings = OllamaEmbeddings(model="nomic-embed-text")
+    embeddings = ollama.embeddings(model="nomic-embed-text")
     #PineconeEmbeddings(model="multilingual-e5-large")
     return embeddings
 
