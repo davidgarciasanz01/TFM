@@ -1,0 +1,41 @@
+Recorrido: Tocar la historia
+Obra: Recorrido Tocar la historia
+Sala: Múltiples salas
+Etapa: Global
+Siglo: Global
+Categoría: Recorrido
+Procedencia: Global
+Tema: Tocar la historia
+
+
+Descripción:
+
+Tocar la historia. Un recorrido a través de las estaciones táctiles
+España, un gran yacimiento
+Las Estaciones táctiles son pequeñas exposiciones dedicadas cada una a un tema diferente que desarrollan una idea global y representativa de un período cultural determinado. Son diecisiete y están repartidas por todas las salas de la exposición permanente del Museo. Con todas ellas, hemos elaborado un recorrido que le permitirá realizar un paseo por el Museo, desde la Prehistoria hasta el siglo XIX, mediante reproducciones fieles de los objetos originales, acompañadas de relieves táctiles, modelos, mapas y textos que los complementan para representar las distintas ideas globales mencionadas.
+
+
+Las primeras Estaciones están dedicadas a presentar los primeros materiales utilizados por los seres humanos (piedra, hueso, cerámica y bronce). La piedra y el hueso son materias primas fácilmente disponibles en la naturaleza, mientras que la cerámica y el bronce son materiales creados tomando como base materias primas, como la arcilla o los metales que, bajo la acción del fuego, modifican sus características físicas.
+
+
+En otros casos, las Estaciones muestran distintas transformaciones tecnológicas, religiosas y sociales que han tenido lugar desde la Antigüedad hasta la Edad Media y que han modificado notablemente los modos de vida de las gentes, como la introducción del torno de alfarero en la península ibérica o la romanización.
+
+
+Por último, algunas Estaciones destacan determinados elementos y fenómenos políticos, económicos y sociales complejos (el nacimiento de la escritura, el desarrollo del arte mudéjar o el importante papel del dinero) cuya implantación ha supuesto cambios radicales en las sociedades en las que se han producido y que han tenido un desarrollo muy dilatado en el tiempo.
+
+
+Esperamos que disfrute de este recorrido, un original paseo por las salas del Museo Arqueológico Nacional que le permitirá Tocar la historia con sus propias manos.
+
+se divide en distintas estaciones: La piedra: Primeros instrumentos, el hueso, la cerámica, el bronce,La tecnología: motor de cambios sociales en Iberia,
+romanización,La unidad del Imperio romano, Hispania,De la decoración arquitectónica andalusí a la mudéjar, Devoción femenina,El Imperio de los Austrias
+,Un mercado global, la escritura, La creación del símbolo de la justicia,Invisibilidad femenina-visibilidad masculina,El dinero,
+La moneda
+
+
+
+
+
+
+
+
+

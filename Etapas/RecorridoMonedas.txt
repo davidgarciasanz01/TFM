@@ -1,0 +1,20 @@
+Recorrido: Monedas
+Obra: Recorrido Monedas
+Sala: Múltiples salas
+Etapa: De la dracma al euro
+Siglo: Global
+Categoría: Recorrido
+Procedencia: Global
+Tema: Monedas. De la dracma al euro
+
+
+Descripción:
+De la dracma al euro. Una historia de España a través de sus monedas
+Las monedas más importantes que han circulado en el territorio que hoy es España permiten recorrer su historia con una mirada diferente. 25 siglos de culturas, reinos, imperios, conquistas, descubrimientos, planes, inventos, éxitos, fracasos, arte, identidad, riqueza y pobreza… caben en la palma de la mano.
+
+Desde su invención, hacia 600 a.C., en Asia Menor (hoy Turquía), las monedas han sido herramientas necesarias para la vida cotidiana, los grandes y pequeños negocios, la planificación estatal y la buena imagen de gobiernos y países. Constituyen una parte muy importante de los restos materiales que conservamos de nuestro pasado y son una de las claves imprescindibles para investigarlo, conocerlo y entenderlo.
+
+Sobre todo, son un prodigio de diseño: un éxito indiscutible de forma y función, de manera que las monedas antiguas tienen un aire tan familiar a nuestros euros que las reconocemos al instante. Los tiempos cambian, reales y pesetas se olvidan; pero el dinero sigue haciendo girar el mundo, y las monedas giran con él.
+
+Las moneda son: La dracma,El shekel,El denario,El denario ibérico, as hispanorromano,El áureo,El tremís,El dinar,El dírham,La dobla,El dinero,El mancuso,El maravedí de oro,
+La dobla castellana,El florín,El real, El ducado,El excelente,El escudo,El real de a ocho,El maravedí,La peseta y El euro

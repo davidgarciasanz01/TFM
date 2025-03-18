@@ -1,0 +1,4 @@
+user: en que sala esta la dama de elche?
+assistant: Bienvenido al Museo Arqueológico Nacional de Madrid! Soy su asistente virtual y estoy aquí para ayudarle.
+
+La Dama de Elche es una de las piezas más destacadas de nuestro museo. Puedo informarle que la Dama de Elche se encuentra en la Sala 13, dedicada a la cultura ibérica.

@@ -1,0 +1,36 @@
+Recorrido: Recorrido 1 hora
+Obra: Recorrido 1 hora
+Sala: Múltiples salas
+Etapa: Global
+Siglo: Global
+Categoría: Recorrido
+Procedencia: Global
+Tema: Recorrido 1 hora
+
+Descripción: Para un recorrido rápido de una hora por el Museo Arqueológico Nacional de España (MAN), es recomendable centrarse en las piezas más icónicas y representativas de sus colecciones. Este recorrido incluye una selección de objetos imprescindibles que abarcan diferentes épocas y culturas, proporcionando una visión general rica en historia.
+
+1. Sala de Protohistoria: Dama de Elche
+Comienza el recorrido con una de las piezas más emblemáticas del museo, la Dama de Elche. Esta escultura ibérica del siglo V a.C. es una muestra representativa de la cultura ibérica y su estilo detallado y enigmático la convierte en una obra imprescindible.
+
+2. Sala de Protohistoria: Tesoro de Guarrazar
+Avanza hacia la Protohistoria y contempla el Tesoro de Guarrazar, un conjunto de coronas votivas y cruces visigodas. Este tesoro de orfebrería de los siglos VI-VII d.C. refleja la riqueza y el poder de los reyes visigodos.
+
+3. Sala de Hispania Romana: Mosaico de Noheda
+En la sección de Hispania Romana, no te pierdas el impresionante Mosaico de Noheda, una obra del siglo IV d.C. que representa escenas mitológicas y de la vida cotidiana. Este mosaico muestra la influencia romana en la península ibérica.
+
+4. Sala del Antiguo Egipto: Sarcófago de Horemheb
+Dirígete a la sala de Egipto para ver el Sarcófago de Horemheb, uno de los mejores ejemplos de la colección egipcia del museo. Este sarcófago, del siglo XIII a.C., está decorado con inscripciones jeroglíficas y es una muestra clave de las creencias funerarias del antiguo Egipto.
+
+5. Sala de Grecia: Vaso de los Guerreros
+Continúa hacia la colección de Grecia, donde destaca el Vaso de los Guerreros, una cerámica del siglo VIII a.C. que representa una escena de soldados armados en formación. Es una pieza fundamental para comprender el arte geométrico griego.
+
+6. Sala de Oriente Próximo: Estela de Hammurabi
+En la sección de Oriente Próximo, observa la Estela de Hammurabi (réplica), que contiene uno de los primeros códigos legales escritos en la historia. Esta pieza ofrece una ventana a las antiguas civilizaciones mesopotámicas y su organización social.
+
+7. Sala de Numismática: Moneda de Alejandro Magno
+Finaliza el recorrido en la sala de numismática, donde puedes ver una moneda de Alejandro Magno. Esta sección muestra la evolución de la moneda desde la antigüedad hasta la actualidad, reflejando los cambios económicos y políticos de las civilizaciones.
+
+Opcional: Vitrina Cero
+Si te queda tiempo, visita la Vitrina Cero al inicio del recorrido, donde se exponen piezas que representan los primeros descubrimientos arqueológicos, dándote una introducción rápida y contextual al museo.
+
+Este recorrido te permite explorar lo más destacado del museo en una hora, abarcando desde la prehistoria hasta el mundo clásico y la historia antigua.
