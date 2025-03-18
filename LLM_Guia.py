@@ -12,7 +12,7 @@ import streamlit as st
 # Acceder a las claves almacenadas en secrets.toml
 PINECONE_API_KEY = st.secrets["pinecone"]["api_key"]
 PINECONE_ENVIRONMENT_REGION = st.secrets["pinecone"]["environment_region"]
-GROQ_API_KEY = st.secrets["groq"]["api_key"]
+#GROQ_API_KEY = st.secrets["groq"]["api_key"]
 
 # Configuración del LLM
 INDEX_NAME = "man"
