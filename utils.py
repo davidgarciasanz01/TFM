@@ -6,19 +6,10 @@ import re
 
 
 
-import asyncio
-
+from langchain_community.embeddings import OllamaEmbeddings
 
 def get_embedding_function():
-    # Asegurar que hay un bucle de eventos activo
-    #try:
-   #     asyncio.get_running_loop()
-   # except RuntimeError:
-    #    asyncio.set_event_loop(asyncio.new_event_loop())
-
-    # Inicializar embeddings
-    embeddings = OllamaEmbeddings(model="nomic-embed-text")
-    #PineconeEmbeddings(model="multilingual-e5-large")
+    embeddings = OllamaEmbeddings(model="nomic-embed-text", base_url="http://tuservidor:11434")
     return embeddings
 
 
