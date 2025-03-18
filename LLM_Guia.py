@@ -7,17 +7,17 @@ from langchain_groq import ChatGroq
 from Retriever import get_fine_retriever
 import os
 
-import streamlit as st
-
 # Acceder a las claves almacenadas en secrets.toml
 PINECONE_API_KEY = st.secrets["pinecone"]["api_key"]
 PINECONE_ENVIRONMENT_REGION = st.secrets["pinecone"]["environment_region"]
-#GROQ_API_KEY = st.secrets["groq"]["api_key"]
+GROQ_API_KEY = st.secrets["groq"]["api_key"]
 
 # Configuración del LLM
 INDEX_NAME = "man"
-llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", api_key="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")
-)
+
+# Corregido el uso de la clave API
+llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", api_key=GROQ_API_KEY)
+
 
 # Prompt del sistema con instrucciones claras
 _system_guide_prompt = """
