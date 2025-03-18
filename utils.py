@@ -10,6 +10,6 @@ def get_embedding_function():
     embeddings = PineconeEmbeddings(
         model="multilingual-e5-large",  # Modelo de embeddings
         pinecone_api_key="c563e341-f430-41a5-8dc4-93596352b778",  # Reemplaza con tu API key de Pinecone
-        index_name="MAN"          # Nombre del índice que creaste en Pinecone
+        index_name="man2"          # Nombre del índice que creaste en Pinecone
     )
     return embeddings
