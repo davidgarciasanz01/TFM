@@ -9,6 +9,7 @@ import os
 
 os.environ["PINECONE_API_KEY"] = "c563e341-f430-41a5-8dc4-93596352b778"
 os.environ["PINECONE_ENVIRONMENT_REGION"] = "us-east-1"
+GROQ_API_KEY = st.secrets["groq"]["api_key"]
 INDEX_NAME = "man"
 
 metadata_field_info = [
@@ -65,7 +66,7 @@ Use the original query for processing.
 """
 
 def get_fine_retriever():
-    llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile")
+    llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile",api_key=GROQ_API_KEY)
     vectorstore = PineconeVectorStore.from_existing_index(
         index_name=INDEX_NAME,
         embedding=get_embedding_function()
