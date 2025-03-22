@@ -26,6 +26,8 @@ def chat_interface():
     st.write("Hola, soy el asistente virtual del Museo, estoy especializado en las obras y recorridos del museo. "
              "Puedes consultarme información de las obras que se encuentran en el MAN."
              "¿En qué puedo ayudarte hoy?")
+    st.markdown('<p style="font-size: 12px;">NOTA: Es necesario borrar el mensaje para seguir preguntando</p>', unsafe_allow_html=True)
+
 
     # Inicializar el historial de chat si no está presente
     if 'history' not in st.session_state:
@@ -77,7 +79,6 @@ def general_info_interface():
         "Bienvenido a la sección de información general. Aquí encontrarás datos interesantes "
         "sobre tarifas, horarios, servicios, y más detalles generales sobre el Museo Arqueológico Nacional."
     )
-    st.markdown('<p style="font-size: 12px;">NOTA: Es necesario borrar el mensaje para seguir preguntando</p>', unsafe_allow_html=True)
 
     chat_history = ChatMessageHistory()  # Inicializar historial vacío
 
