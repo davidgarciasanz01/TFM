@@ -77,6 +77,8 @@ def general_info_interface():
         "Bienvenido a la sección de información general. Aquí encontrarás datos interesantes "
         "sobre tarifas, horarios, servicios, y más detalles generales sobre el Museo Arqueológico Nacional."
     )
+    st.markdown('<p style="font-size: 12px;">NOTA: Es necesario borrar el mensaje para seguir preguntando</p>', unsafe_allow_html=True)
+
     chat_history = ChatMessageHistory()  # Inicializar historial vacío
 
     # Imagen del Museo en la sección de información general
