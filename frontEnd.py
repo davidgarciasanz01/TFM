@@ -102,12 +102,12 @@ def main():
     st.sidebar.title("Elige tu experiencia")
     choice = st.sidebar.radio(
         "¿Qué te gustaría explorar?",
-        ("Información General", "Interactuar con el Guía del Museo"),
+        ("Información General", "Interactuar con el Guía en el Museo"),
     )
 
     if choice == "Información General":
         general_info_interface()
-    elif choice == "Interactuar con el Guía del Museo":
+    elif choice == "Interactuar con el Guía en el Museo":
         chat_interface()
 
 if __name__ == "__main__":
