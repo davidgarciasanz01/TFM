@@ -26,7 +26,7 @@ def chat_interface():
     st.write("Hola, soy el asistente virtual del Museo, estoy especializado en las obras y recorridos del museo. "
              "Puedes consultarme información de las obras que se encuentran en el MAN."
              "¿En qué puedo ayudarte hoy?")
-    st.markdown('<p style="font-size: 12px;">NOTA: Es necesario borrar el mensaje para seguir preguntando</p>', unsafe_allow_html=True)
+    st.markdown('<p style="font-size: 12px;">NOTA: Es necesario borrar el mensaje para seguir preguntando.</p>', unsafe_allow_html=True)
 
 
     # Inicializar el historial de chat si no está presente
